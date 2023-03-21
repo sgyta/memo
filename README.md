@@ -1,13 +1,16 @@
 ## チェック済み
 + ### DGRec: Graph Neural Network for Recommendation with Diversified Embedding Generation
+  - 類似度が最小になるように隣接ノードのアイテムをサンプリング，カテゴリ内のアイテム数が少ないアイテムが重要になるように重みづけ
   - [[paper]](https://arxiv.org/abs/2211.10486)
   
 + ### Self-supervised Graph Learning for Recommendation
-  - エッジをドロップアウトさせた2種類のグラフを学習に使用
+  - 対照学習を用いた推薦システムのベースとなる論文
+  - グラフに2種類の拡張を加えたそれぞれのユーザ同士・アイテム同士を比較
+  - 拡張はノードドロップアウト、エッジドロップアウト、ランダムウォークの3種類
   - [[paper]](https://arxiv.org/abs/2010.10783)
   
 + ### Are Graph Augmentations Necessary?: Simple Graph Contrastive Learning for Recommendation
-  - エッジのドロップアウトの代わりに各層の埋め込みベクトルにノイズを加えてデータ拡張
+  - グラフの拡張の代わりに各層の埋め込みベクトルにノイズを加えてデータ拡張
   - [[paper]](https://arxiv.org/abs/2112.08679)
   
 + ### Contrastive learning for cold-start recommendation
