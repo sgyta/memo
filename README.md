@@ -31,7 +31,7 @@
 
 + ### Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering
   - 1回畳み込んだときのユーザとアイテムのスコアが低い場合ノイズとしてエッジを削除
-  - 多様性を維持するためにユーザが未観測のアイテムとのエッジをランダム(?)で追加
+  - 多様性を維持するためにユーザと未観測のアイテム間のエッジを追加
   - [[paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531889) 
 
 ## チェック予定
