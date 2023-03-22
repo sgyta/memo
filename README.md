@@ -13,16 +13,13 @@
   - グラフの拡張の代わりに各層の埋め込みベクトルにノイズを加えてデータ拡張
   - [[paper]](https://arxiv.org/abs/2112.08679)
   
-+ ### Contrastive learning for cold-start recommendation
-  - [[paper]](https://arxiv.org/abs/2107.05315)
-  
 + ### Contrastive Co-training for Diversified Recommendation
   - 普通のグラフと対照学習用のグラフで共同学習
   - 対照学習に用いるアイテムを相互作用数の逆数やカテゴリ数の逆数の比率でサンプリング
   - [[paper]](https://www.amazon.science/publications/contrastive-so-training-for-diversified-recommendation)
   
 + ### Investigating Accuracy-Novelty Performance for Graph-based Collaborative Filtering
-  - 正規化係数の値を変えることでより高次の要素を取り込んだ埋め込みベクトルを得る
+  - 正規化係数の値を変えることでより高次の要素を取り込んだ埋め込みベクトルを得る→新規性向上
   - [[paper]](https://arxiv.org/abs/2204.12326)
   
 + ### Invariant Collaborative Filtering to Popularity Distribution Shift
