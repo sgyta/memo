@@ -27,6 +27,7 @@
   - [[paper]](https://arxiv.org/abs/2302.05328)
   
 + ### Incorporating Bias-aware Margins into Contrastive Loss for Collaborative Filtering
+  - インタラクション数のみを考慮した推薦でマージンを取る
   - [[paper]](https://arxiv.org/abs/2210.11054)
 
 + ### Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering
