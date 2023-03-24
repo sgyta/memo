@@ -1,9 +1,9 @@
 ## チェック済み
-+ ### DGRec: Graph Neural Network for Recommendation with Diversified Embedding Generation
++ ### DGRec: Graph Neural Network for Recommendation with Diversified Embedding Generation (WSDM 2023)
   - 類似度が最小になるように隣接ノードのアイテムをサンプリング，カテゴリ内のアイテム数が少ないアイテムが重要になるように重みづけ
   - [[paper]](https://arxiv.org/abs/2211.10486)
   
-+ ### Self-supervised Graph Learning for Recommendation
++ ### Self-supervised Graph Learning for Recommendation (SIGIR 2021)
   - 対照学習を用いた推薦システムのベースとなる論文
   - グラフに2種類の拡張を加えたそれぞれのユーザ同士・アイテム同士を比較
   - 拡張はノードドロップアウト、エッジドロップアウト、ランダムウォークの3種類
