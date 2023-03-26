@@ -67,3 +67,8 @@
 
 + ### LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation (ICLR 2023)
   - [[paper]](https://arxiv.org/abs/2302.08191) [[code]](https://github.com/HKUDS/LightGCL)
+  
+<br>
+
++ ### Disentangled Representation for Diversified Recommendations (WSDM 2023)
+  - [[paper]](https://arxiv.org/abs/2301.05492) [[code]](https://github.com/Xiaoyinggit/DCRS)
