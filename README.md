@@ -1,8 +1,8 @@
 ## チェック済み
 + ## グラフベースの多様性を考慮した推薦システム
-    　　　
-    
-    <details>　<summary>DGRec: Graph Neural Network for Recommendation with Diversified Embedding Generation (WSDM 2023)</summary>
+
+    <details>
+    　　<summary>DGRec: Graph Neural Network for Recommendation with Diversified Embedding Generation (WSDM 2023)</summary>
 
     - 類似度が最小になるように隣接ノードのアイテムをサンプリング，カテゴリ内のアイテム数が少ないアイテムが重要になるように重みづけ
     - [[paper]](https://arxiv.org/abs/2211.10486) [[code]](https://github.com/YangLiangwei/DGRec)
