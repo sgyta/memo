@@ -1,4 +1,3 @@
-## チェック済み
 + ## グラフベースの多様性を考慮した推薦システム
 
     <details>
@@ -17,6 +16,22 @@
     - [[paper]](https://www.amazon.science/publications/contrastive-so-training-for-diversified-recommendation)
 
     </details>
+
+  <br>
+
++ ## グラフベース以外の多様性を考慮した推薦システム
+    <details>
+    　　<summary>The use of MMR, diversity-based reranking for reordering documents and producing summaries (SIGIR 1998)</summary>
+
+    - 多様性のベースライン
+    - 後処理による並べ替え
+    - [[paper]](https://dl.acm.org/doi/10.1145/290941.291025)
+  
+      <details>
+    　　<summary>Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity (SIGIR 1998)</summary>
+
+    - 多様性のベースライン2
+    - [[paper]](https://arxiv.org/abs/1709.05135)
 
   <br>
 
@@ -77,14 +92,14 @@
     - [[paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531889) [[code]](https://github.com/ChangxinTian/RGCF)
 
     </details>
+    <details>
+    　　<summary>Towards Robust Neural Graph Collaborative Filtering via Structure Denoising and Embedding Perturbation</summary>
 
-  <br>
-
-## チェック予定
-
-+ ### Towards Robust Neural Graph Collaborative Filtering via Structure Denoising and Embedding Perturbation
-  - 埋め込みベクトルにノイズを与える際に自分以外の埋め込みベクトルを使用(?)
+  - 埋め込みベクトルにノイズを与える際に自分以外の埋め込みベクトルを使用
   - [[paper]](https://dl.acm.org/doi/10.1145/3568396)
+
+    </details>
+  <br>
 
 <br>
 
