@@ -1,5 +1,9 @@
 + ## グラフベースの多様性を考慮した推薦システム
+    <details>
+    　　<summary>DGCN: Diversified Recommendation with Graph Convolutional Networks (WWW 2021)</summary>
+    - [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449835) [[code]](https://github.com/tsinghua-fib-lab/DGCN)
 
+    </details>
     <details>
     　　<summary>DGRec: Graph Neural Network for Recommendation with Diversified Embedding Generation (WSDM 2023)</summary>
 
@@ -27,13 +31,18 @@
     - 後処理による並べ替え
     - [[paper]](https://dl.acm.org/doi/10.1145/290941.291025)
   
-      <details>
-    　　<summary>Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity (SIGIR 1998)</summary>
+    </details>
+
+    <details>
+    　　<summary>Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity (NeurIPS 2018)</summary>
 
     - 多様性のベースライン2
+    - 後処理による並べ替え
     - [[paper]](https://arxiv.org/abs/1709.05135)
-
-  <br>
+    
+    <details>
+  
+<br>
 
 + ## 対照学習を用いた推薦システム(精度)
 
