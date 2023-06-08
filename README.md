@@ -1,6 +1,7 @@
 + ## グラフベースの多様性を考慮した推薦システム
     <details>
     　　<summary>DGCN: Diversified Recommendation with Graph Convolutional Networks (WWW 2021)</summary>
+
     - [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449835) [[code]](https://github.com/tsinghua-fib-lab/DGCN)
 
     </details>
@@ -40,7 +41,7 @@
     - 後処理による並べ替え
     - [[paper]](https://arxiv.org/abs/1709.05135)
     
-    <details>
+    </details>
   
 <br>
 
@@ -62,6 +63,14 @@
 
     - グラフの拡張の代わりに各層の埋め込みベクトルにノイズを加えてデータ拡張
     - [[paper]](https://arxiv.org/abs/2112.08679) [[code]](https://github.com/Coder-Yu/QRec)
+
+    </details>
+
+    <details>
+    　　<summary>Adap-τ: Adaptively Modulating Embedding Magnitude for Recommendation (WWW 2023)</summary>
+
+    - $\tau$の値をスコアから自動的に決定する
+    - [[paper]](https://arxiv.org/abs/2302.04775) [[code]](https://github.com/junkangwu/Adap_tau)
 
     </details>
     <br>
