@@ -73,6 +73,19 @@
     - [[paper]](https://arxiv.org/abs/2302.04775) [[code]](https://github.com/junkangwu/Adap_tau)
 
     </details>
+    
+    <details>
+    　　<summary>Multisample-Based Contrastive Loss for Top-K Recommendation (IEEE 2021)</summary>
+
+    - [[paper]](https://ieeexplore.ieee.org/document/9609670) [[code]](https://github.com/haotangxjtu/MSCL)
+    
+    </details>
+  <details>
+    　　<summary>Ranking-based contrastive loss for recommendation systems( Knowledge-Based Systems 2023)</summary>
+
+    - [[paper]](https://ieeexplore.ieee.org/document/9609670) [[code]](https://github.com/haotangxjtu/RCL)
+    
+    </details>
     <br>
 
 
