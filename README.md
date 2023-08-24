@@ -40,6 +40,13 @@
     - 多様性のベースライン2
     - 後処理による並べ替え
     - [[paper]](https://arxiv.org/abs/1709.05135)
+
+    </details>
+  <details>
+    　　<summary>Disentangled Representation for Diversified Recommendations (WSDM 2023)</summary>
+
+    - 識別器を用いてカテゴリに依存する表現と依存しない表現を獲得
+    - [[paper]](https://arxiv.org/abs/2301.05492) [[code]](https://github.com/Xiaoyinggit/DCRS)
     
     </details>
   
@@ -65,15 +72,23 @@
     - [[paper]](https://arxiv.org/abs/2112.08679) [[code]](https://github.com/Coder-Yu/QRec)
 
     </details>
-
+    
     <details>
     　　<summary>Adap-τ: Adaptively Modulating Embedding Magnitude for Recommendation (WWW 2023)</summary>
 
-    - $\tau$の値をスコアから自動的に決定する
+    - 対照損失で用いるハイパーパラメータ$\tau$の値をスコアから自動的に決定する
     - [[paper]](https://arxiv.org/abs/2302.04775) [[code]](https://github.com/junkangwu/Adap_tau)
 
     </details>
     
+    <details>
+    　　<summary>LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation (ICLR 2023)</summary>
+
+    - $\tau$の値をスコアから自動的に決定する
+    - [[paper]](https://arxiv.org/abs/2302.08191) [[code]](https://github.com/HKUDS/LightGCL)
+
+    </details>
+
     <details>
     　　<summary>Multisample-Based Contrastive Loss for Top-K Recommendation (IEEE 2021)</summary>
 
@@ -130,20 +145,15 @@
   - [[paper]](https://dl.acm.org/doi/10.1145/3568396)
 
     </details>
-  <br>
+    
+    <br>
+  + ## その他
+      <details>
+        <summary>Towards Representation Alignment and Uniformity in Collaborative Filtering</summary>
+          
+        　- より良いアライメントと均一性がBPR損失を最小化し，実験的により良い精度を達成することを提唱
+        　- アライメントと均一性を直接最適化する損失関数を提案
+        　- [[paper]](https://arxiv.org/abs/2206.12811) [[code]](https://github.com/THUwangcy/DirectAU)
+    
+      </details>
 
-<br>
-
-+ ### Countering Popularity Bias by Regularizing Score Differences (RecSys 2022)
-  - [[paper]](https://dl.acm.org/doi/abs/10.1145/3523227.3546757) [[code]](https://github.com/stillpsy/popbias)
-
-
-<br>
-
-+ ### LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation (ICLR 2023)
-  - [[paper]](https://arxiv.org/abs/2302.08191) [[code]](https://github.com/HKUDS/LightGCL)
-  
-<br>
-
-+ ### Disentangled Representation for Diversified Recommendations (WSDM 2023)
-  - [[paper]](https://arxiv.org/abs/2301.05492) [[code]](https://github.com/Xiaoyinggit/DCRS)
