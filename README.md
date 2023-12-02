@@ -1,4 +1,4 @@
-+ ## グラフベースの多様性を考慮した推薦システム
++ ## Diversified Recommendation
     <details>
     　　<summary>DGCN: Diversified Recommendation with Graph Convolutional Networks (WWW 2021)</summary>
 
@@ -22,9 +22,6 @@
 
     </details>
 
-  <br>
-
-+ ## グラフベース以外の多様性を考慮した推薦システム
     <details>
     　　<summary>The use of MMR, diversity-based reranking for reordering documents and producing summaries (SIGIR 1998)</summary>
 
@@ -52,7 +49,7 @@
   
 <br>
 
-+ ## 対照学習を用いた推薦システム(精度)
++ ## Contrastive Loss for Recommendation 
 
     <details>
     　　<summary>Self-supervised Graph Learning for Recommendation (SIGIR 2021)</summary>
@@ -101,11 +98,6 @@
     - [[paper]](https://www.sciencedirect.com/science/article/pii/S095070512201276X) [[code]](https://github.com/haotangxjtu/RCL)
     
     </details>
-    <br>
-
-
-+ ## 対照学習を用いた推薦システム(人気バイアス、新規性、頑健性等)
-
     <details>
     　　<summary>Investigating Accuracy-Novelty Performance for Graph-based Collaborative Filtering (SIGIR 2022)</summary>
 
@@ -147,7 +139,7 @@
     </details>
     
     <br>
-  + ## その他
+  + ## Others
       <details>
         <summary>Towards Representation Alignment and Uniformity in Collaborative Filtering</summary>
           
