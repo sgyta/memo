@@ -89,7 +89,8 @@
   <details>
   <summary>Investigating Accuracy-Novelty Performance for Graph-based Collaborative Filtering (SIGIR 2022)</summary>
 
-  - 正規化係数の値を変えることでより高次の要素を取り込んだ埋め込みベクトルを得る→新規性向上
+  - 正規化係数の値を変える
+  - より高次の要素を取り込んだ埋め込みを得られ、新規性向上
   - [[paper]](https://arxiv.org/abs/2204.12326)
   </details>
 
@@ -97,7 +98,6 @@
   <details>
   <summary>LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation (ICLR 2023)</summary>
 
-  - $\tau$の値をスコアから自動的に決定する
   - [[paper]](https://arxiv.org/abs/2302.08191) [[code]](https://github.com/HKUDS/LightGCL)
   </details>
 
