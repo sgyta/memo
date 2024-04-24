@@ -121,7 +121,7 @@
   - [[paper]](https://arxiv.org/pdf/2403.07265)
   </details>
 
-+ ## Robust Recommendation / Denoising Recommendaiton 
++ ## Robust Recommendation / Denoising Recommendation 
 
   <details>
   <summary>Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering (SIGIR 2022)</summary>
@@ -139,7 +139,7 @@
   </details>
 
   <details>
-  <summary>Efficient Bi-Level Optimization for Recommendation Denoising(KDD 2023)</summary>
+  <summary>Efficient Bi-Level Optimization for Recommendation Denoising (KDD 2023)</summary>
 
   - [[paper]](https://arxiv.org/abs/2210.10321) [[code]](https://github.com/CoderWZW/BOD)
   </details>
@@ -152,33 +152,35 @@
 
 
   <details>
-  <summary>Robust Training of Graph Neural Networks via Noise Governance(WSDM 2023)</summary>
+  <summary>Robust Training of Graph Neural Networks via Noise Governance (WSDM 2023)</summary>
 
   - [[paper]](https://arxiv.org/abs/2211.06614) [[code]](https://github.com/GhostQ99/RobustTrainingGNN)
   </details>
 
   <details>
-  <summary>MADM: A Model-agnostic Denoising Module for Graph-based Social Recommendation(WSDM 2024)</summary>
+  <summary>MADM: A Model-agnostic Denoising Module for Graph-based Social Recommendation (WSDM 2024)</summary>
 
   - [[paper]](https://dl.acm.org/doi/10.1145/3616855.3635784)
   </details>
 
   <details>
-  <summary>Knowledge-refined Denoising Network for Robust Recommendation(SIGIR 2023)</summary>
+  <summary>Knowledge-refined Denoising Network for Robust Recommendation (SIGIR 2023)</summary>
 
   - [[paper]](https://arxiv.org/abs/2304.14987) [[code]](https://github.com/xj-zhu98/KRDN)
   </details>
 
   <details>
   <summary>Co-Training-Teaching: A Robust Semi-Supervised Framework for Review-Aware Rating Regression</summary>
-
+  
+  - レーティングに基づいた回帰問題に対してCo-TrainingとCo-Teachingの考え方を利用
   - [[paper]](https://dl.acm.org/doi/10.1145/3625391) [[code]](https://github.com/PennykkLu/CoT2)
   </details>
 
 
   <details>
   <summary>Stdfed: A Self-Training Dual-Network Denoising Framework for Federated Recommendation</summary>
-
+  
+  - グローバルモデルとローカルモデルの連合学習によるノイズ除去
   - [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4743671) [[code]](https://github.com/lgxccc/STDFed)
   </details>
 
@@ -191,7 +193,7 @@
   </details>
 
   <details>
-  <summary>LLMRec: Large Language Models with Graph Augmentation for Recommendation(WSDM 2024)</summary>
+  <summary>LLMRec: Large Language Models with Graph Augmentation for Recommendation (WSDM 2024)</summary>
 
   - [[paper]](https://arxiv.org/abs/2311.00423) [[code]](https://github.com/HKUDS/LLMRec)
   </details>
