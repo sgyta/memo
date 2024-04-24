@@ -122,6 +122,24 @@
   </details>
 
 + ## Robust Recommendation / Denoising Recommendation 
+  <details>
+  <summary>Denoising Implicit Feedback for Recommendation (WSDM 2021)</summary>
+
+  - 1つ目は損失によってしきい値を調整．イテレーションが大きくなるにつれてしきい値を徐々に小さくするように調整．2つ目は予測が困難な(予測スコアが低い)サンプルの重要度を下げるように重みづけ． 
+  - [[paper]](https://arxiv.org/abs/2006.04153) [[code]](https://github.com/WenjieWWJ/DenoisingRec)
+  </details>
+
+  <details>
+  <summary>Self-Guided Learning to Denoise for Robust Recommendation (SIGIR 2022)</summary>
+
+  - [[paper]](https://arxiv.org/abs/2204.06832) [[code]](https://github.com/ZJU-DAILY/SGDL)
+  </details>
+
+  <details>
+  <summary>Learning Robust Recommenders through Cross-Model Agreement (WWW 2022)</summary>
+
+  - [[paper]](https://arxiv.org/abs/2105.09605) [[code]](https://github.com/wangyu-ustc/DeCA)
+  </details>
 
   <details>
   <summary>Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering (SIGIR 2022)</summary>
