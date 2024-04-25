@@ -168,13 +168,6 @@
   - [[paper]](https://arxiv.org/abs/2401.06982)
   </details>
 
-
-  <details>
-  <summary>Robust Training of Graph Neural Networks via Noise Governance (WSDM 2023)</summary>
-
-  - [[paper]](https://arxiv.org/abs/2211.06614) [[code]](https://github.com/GhostQ99/RobustTrainingGNN)
-  </details>
-
   <details>
   <summary>MADM: A Model-agnostic Denoising Module for Graph-based Social Recommendation (WSDM 2024)</summary>
 
@@ -209,6 +202,13 @@
   - AlignmentとUniformityを直接最適化する損失関数を提案
   - [[paper]](https://arxiv.org/abs/2206.12811) [[code]](https://github.com/THUwangcy/DirectAU)
   </details>
+
+  <details>
+  <summary>Robust Training of Graph Neural Networks via Noise Governance (WSDM 2023)</summary>
+
+  - [[paper]](https://arxiv.org/abs/2211.06614) [[code]](https://github.com/GhostQ99/RobustTrainingGNN)
+  </details>
+
 
   <details>
   <summary>LLMRec: Large Language Models with Graph Augmentation for Recommendation (WSDM 2024)</summary>
